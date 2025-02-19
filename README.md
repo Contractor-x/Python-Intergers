@@ -3,5 +3,4 @@
     including Operations(Addition,Subtraction,Multiplication,Division),
     Int length,
     FLoats,
-    e.t.c
     feel free to Star,Fork or Branch this. Thank you.
